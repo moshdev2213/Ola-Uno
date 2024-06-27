@@ -1,7 +1,7 @@
 
 # OLA UNO
 
-![11 (1)](https://github.com/moshdev2213/Ola-Uno/assets/103739510/8d072dfb-800d-4a41-87c9-a56416bd0e3e)
+<img width="860" alt="11" src="https://github.com/moshdev2213/Ola-Uno/assets/103739510/afe981d8-fbc1-49bd-92ae-dd7e217dc690">
 
 
 OLA UNO is an IoT project designed to facilitate hands-on learning in the field of Internet of Things (IoT) 🌐. The project utilizes an ESP32 microcontroller board 🤖, known for its versatility and capabilities in IoT applications. Two LEDs 💡💡 are integrated into the setup, which are controlled via an Express server 🖥️.
